@@ -1,0 +1,12 @@
+{
+    "manifest_version":3,
+    "name":"Notes Saver",
+    "version":"1.0",
+    "description":"save notes quickly",
+    "action":{
+        "default_popup":"popup.html"
+    },
+    "permissions":[
+        "storage"
+    ]
+}
